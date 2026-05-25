@@ -7,21 +7,25 @@ Data-Analysis-Projects/
 
 ├── Superstore-Analysis/
 
-│   ├── superstore_analysis.ipynb
 
-│   ├── Sample - Superstore.csv
 
-│   └── README.md
+│       ├── superstore_analysis.ipynb
+
+│       ├── Sample - Superstore.csv
+
+│       └── README.md
 
 │
 
 ├── Sentiment-Analysis/
 
-│   ├── sentiment_analysis.ipynb
 
-│   ├── IMDB Dataset.csv
 
-│   └── README.md
+│       ├── sentiment_analysis.ipynb
+    
+│       ├── IMDB Dataset.csv
+
+│       └── README.md
 │
 
 └── Stroke-Analysis/
