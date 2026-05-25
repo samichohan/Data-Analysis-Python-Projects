@@ -1,21 +1,35 @@
 📌 Project Overview
-This project performs a complete Exploratory Data Analysis (EDA) on the popular Superstore Sales Dataset from Kaggle. The goal is to uncover business insights related to sales performance, profitability, regional trends, and customer behavior using Python.
+
+
+
+This project performs a complete Exploratory Data Analysis (EDA) on the popular Superstore Sales Dataset from Kaggle. The goal is to 
+
+uncover business insights related to sales performance, profitability, regional trends, and customer behavior using Python.
 
 
 
 📊 Dataset Information
+
+
 FeatureDetailSourceKaggle - Superstore DatasetRows9,994Columns21Time Period2014 – 2017
+
+
 Key Columns:
 
 
 
 
 Sales — Revenue from each order
+
 Profit — Profit/loss from each order
+
 Discount — Discount applied
+
 Category / Sub-Category — Product type
+
 Region — US region (West, East, Central, South)
 Segment — Customer type (Consumer, Corporate, Home Office)
+
 
 
 🧹 Data Cleaning
@@ -30,6 +44,10 @@ Segment — Customer type (Consumer, Corporate, Home Office)
 
 
 📈 Exploratory Data Analysis (EDA)
+
+
+
+
 1️⃣ Sales Distribution
 
 
@@ -53,7 +71,11 @@ RegionPerformanceWest🥇 Highest SalesEast🥈 GoodCentral🥉 ModerateSouth⚠
 
 
 Consumer → Most orders (5,191)
+
 Corporate → Moderate (3,020)
+
+
+
 Home Office → Lowest (1,783)
 
 
@@ -63,6 +85,8 @@ Home Office → Lowest (1,783)
 Technology → Most profitable ✅
 Office Supplies → High sales, moderate profit
 Furniture → Good sales but often negative profit ❌
+
+
 
 6️⃣ Monthly Sales Trend
 
@@ -109,10 +133,20 @@ Analyze supplier costs for Furniture to reduce losses
 
 ToolPurposePythonCore programmingPandasData manipulationNumPyNumerical operationsMatplotlibData visualizationSeabornStatistical plotsGoogle ColabDevelopment environment
 
+
 📂 Project Structure
+
+
+
 Superstore-Analysis/
+
+
 ├── superstore_analysis.ipynb   # Main analysis notebook
+
+
 ├── Sample - Superstore.csv     # Dataset
+
+
 └── README.md                   # Project documentation
 
 🚀 How to Run
@@ -122,8 +156,12 @@ Superstore-Analysis/
 bash# Clone the repo
 git clone https://github.com/samichohan/Data-Analysis-Projects.git
 
+
 # Open the notebook
+
 jupyter notebook superstore_analysis.ipynb
+
+
 Or open directly in Google Colab.
 
 👤 Author
