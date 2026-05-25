@@ -79,9 +79,14 @@ ToolPurposePythonCore programmingPandasData manipulationNumPyNumerical operation
 
 Sentiment-Analysis/
 
+
 ├── sentiment_analysis.ipynb    # Main notebook
+
 ├── IMDB Dataset.csv            # Dataset
+
 └── README.md                   # Project documentation
+
+
 
 🚀 How to Run
 bash# Clone the repo
